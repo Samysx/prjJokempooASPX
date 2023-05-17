@@ -1,0 +1,34 @@
+﻿body { 
+}
+.btn{
+    border-radius: 15px;
+}
+.bigDiv{
+    display: flex;
+    justify-content: center;
+}
+
+ .container{
+      text-align:center;
+      width: 310px
+ }
+ .lbl{
+     font-size: 24px;
+ }
+
+.contPag{
+    display: flex;
+    justify-content: center
+}
+
+.containerPag{
+    width: 620px;
+}
+
+.btnButton {
+    border-radius: 15px;
+    text-align: center;
+    width: 310px;
+    margin: 20px
+}
+
